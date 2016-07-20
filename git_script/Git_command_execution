@@ -1,0 +1,2 @@
+git config --global core.gitproxy /home/ubuntu/kiran/git-proxy.sh
+git config --global core.gitproxy /cygdrive/c/Users/20053491/Downloads/ext2explore-2.2.71/git-proxy.sh
